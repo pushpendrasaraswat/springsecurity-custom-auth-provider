@@ -1,0 +1,9 @@
+#Organize Import Order
+#Fri Sep 21 16:25:28 WEST 2018
+#This empty line is necessary to specify the order for all non specified packages (it is the equivalent of *)
+5=
+4=lombok
+3=com
+2=org
+1=javax
+0=java
